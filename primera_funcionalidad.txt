@@ -1,2 +1,3 @@
 primera funcionalidad hecha por el usuario 1
+modificacion por el usuario 1
 primera funcionalidad modificada por el usuario 2
